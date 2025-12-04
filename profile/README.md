@@ -1,7 +1,9 @@
 # SolfaML
 
 <div align="center">
-<img width="128" height="128" alt="solfaml-tr" src="https://github.com/user-attachments/assets/135d5057-2dba-47b3-aa74-3b3af8aaa065" />
+
+<img width="128" height="128" alt="SolfaML" src="https://github.com/user-attachments/assets/135d5057-2dba-47b3-aa74-3b3af8aaa065" />
+
 </div>
 
 SolfaML is a markup language for composing Solfège or Solfa pieces in a compact format, designed with extensible tooling in mind.
@@ -19,4 +21,4 @@ The SolfaML ecosystem is composed by the following tools:
 
 ## Contributions
 
-The project is still at its earliest stage of development but contributions and feedbacks are welcome.
+The project is still at its earliest stage of development, but contributions and feedbacks are welcome.
