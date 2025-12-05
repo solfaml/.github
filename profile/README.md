@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="128" height="128" alt="SolfaML" src="https://github.com/user-attachments/assets/6ec9db65-c320-4a5e-a4bd-ba786efb4b25" />
+<img width="128" height="128" alt="SolfaML" src="https://github.com/user-attachments/assets/0b6e1a0f-dfb4-4695-becd-492979fcfc0b" />
 
 </div>
 
